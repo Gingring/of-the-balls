@@ -108,7 +108,7 @@ function unStopLoop(){
             restartColdown += 0.02
         }
         if (restartColdown > 2) {
-            window.open("main.html")
+            window.open("index.html")
             // game.c.clearRect(0, 0, game.canvas.width, game.canvas.height)
             // enemies.splice(0,enemies.length)
             // update()
