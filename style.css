@@ -37,3 +37,9 @@ p{
 button:hover{
     background:#0E7775;
 }
+h1{
+    position: absolute;
+    left: 25vw;
+    color: #FFD600;
+    z-index: 1;
+}
